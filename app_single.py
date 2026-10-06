@@ -902,7 +902,7 @@ def home():
         "endpoint": "/info?uid=UID",
         "example": "/info?uid=2084018498",
         "priority": "BD → IND → BR",
-        "credit": "@Itz_Jahid_X"
+        "credit": "@samuusq"
     })
 
 
